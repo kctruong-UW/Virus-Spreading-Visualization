@@ -47,19 +47,5 @@ Unlike a static graph, this simulation allows you to observe the **lag effect** 
 
 ---
 
-## 🚀 Installation & Usage
-
-1.  **Install Dependencies:**
-    ```bash
-    pip install numpy matplotlib
-    ```
-
-2.  **Run the Simulation:**
-    ```bash
-    python virus_sim.py
-    ```
-
----
-
 **Developed by:** Kiet Truong  
 **Academic Affiliation:** University of Wisconsin–Madison
